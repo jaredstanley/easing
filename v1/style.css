@@ -1,0 +1,25 @@
+body{
+	margin:0;
+	background: linear-gradient(#ffaacc, #ccaaff);
+	font-family: helvetica, arial, sans-serif;
+	color: white;
+	text-transform: uppercase;
+}
+
+#label{
+	padding: 10px;
+}
+
+#pct{
+	margin-left: 10px;
+	height:10px;
+	width:120px;
+	background-color: #baddad;
+}
+
+#pctbg{
+	margin-left: 10px;
+	height:10px;
+	width:120px;
+	background-color: #ffffff;
+}
